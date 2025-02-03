@@ -20,9 +20,10 @@ const findFactorPairs = (num) => {
   console.log(`Factor Pairs of ${num}: ${[...pairs]}`);
 };
 
-findFactorPairs(14);
-findFactorPairs(24);
-findFactorPairs(55);
-findFactorPairs(56);
-findFactorPairs(78);
-findFactorPairs(120);
+// findFactorPairs(14);
+// findFactorPairs(24);
+// findFactorPairs(55);
+// findFactorPairs(56);
+// findFactorPairs(78);
+// findFactorPairs(120);
+findFactorPairs(36);
